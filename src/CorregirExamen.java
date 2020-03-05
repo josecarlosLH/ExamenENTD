@@ -27,6 +27,8 @@ public class CorregirExamen {
         JavierSV jsv = new JavierSV();
         lista.add(jsv);
         
+        AlejandroMB amb = new AlejandroMB();
+        lista.add(amb);
         
         AlexAH a = new AlexAH();
         lista.add(a);
