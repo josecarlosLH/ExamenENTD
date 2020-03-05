@@ -25,6 +25,9 @@ public class CorregirExamen {
         JuanCarlosML jcml = new JuanCarlosML();
         lista.add(jcml);
         
+        
+        AlexAH a = new AlexAH();
+        lista.add(a);
         // MOSTRAR EL CONTENIDO DE LA LISTA
         for (Corregible objeto : lista) {
             System.out.println(objeto.descripcion());
