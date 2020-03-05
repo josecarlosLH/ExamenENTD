@@ -19,7 +19,8 @@ public class CorregirExamen {
         BryanESL b = new BryanESL();
         lista.add(b);
         
-        
+        AlexAH a = new AlexAH();
+        lista.add(a);
         // MOSTRAR EL CONTENIDO DE LA LISTA
         for (Corregible objeto : lista) {
             System.out.println(objeto.descripcion());
