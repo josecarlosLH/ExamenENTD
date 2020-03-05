@@ -24,6 +24,8 @@ public class CorregirExamen {
         lista.add(reo);
         JuanCarlosML jcml = new JuanCarlosML();
         lista.add(jcml);
+        JavierSV jsv = new JavierSV();
+        lista.add(jsv);
         
         
         AlexAH a = new AlexAH();
