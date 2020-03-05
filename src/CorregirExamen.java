@@ -35,7 +35,7 @@ public class CorregirExamen {
         
         CristianRR crr = new CristianRR();
         lista.add(crr);
-        IñakiAr iar=new IñakiAr();
+        InakiAr iar=new InakiAr();
         lista.add(iar);
         // MOSTRAR EL CONTENIDO DE LA LISTA
         for (Corregible objeto : lista) {
