@@ -1,3 +1,4 @@
+import entornos.examen.AlejandroRA;
 import java.util.ArrayList;
 import entornos.examen.*;
 
@@ -22,6 +23,8 @@ public class CorregirExamen {
         lista.add(joseADP);
         RafaelEO reo = new RafaelEO();
         lista.add(reo);
+        AlejandroRA a = new AlejandroRA();
+        lista.add(a);
         JuanCarlosML jcml = new JuanCarlosML();
         lista.add(jcml);
         JavierSV jsv = new JavierSV();
@@ -30,8 +33,7 @@ public class CorregirExamen {
         AlejandroMB amb = new AlejandroMB();
         lista.add(amb);
         
-        AlexAH a = new AlexAH();
-        lista.add(a);
+ 
         
         CristianRR crr = new CristianRR();
         lista.add(crr);
