@@ -30,7 +30,10 @@ public class CorregirExamen {
         
         AlexAH a = new AlexAH();
         lista.add(a);
-        IñakiAR iar=new IñakiAR();
+        
+        CristianRR crr = new CristianRR();
+        lista.add(crr);
+        IñakiAr iar=new IñakiAr();
         lista.add(iar);
         // MOSTRAR EL CONTENIDO DE LA LISTA
         for (Corregible objeto : lista) {

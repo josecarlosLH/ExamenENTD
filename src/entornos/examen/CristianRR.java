@@ -7,13 +7,13 @@ package entornos.examen;
 
 /**
  *
- * @author inaki_57htt38
+ * @author Crisel00
  */
-public class IñakiAr implements Corregible{
+public class CristianRR implements Corregible{
+
     @Override
-    public String descripcion(){
-        String mi_nombre="Iñaki AR";
-        return mi_nombre;
+    public String descripcion() {
+        return "CristianRR";
     }
     
 }
