@@ -30,6 +30,9 @@ public class CorregirExamen {
         
         AlexAH a = new AlexAH();
         lista.add(a);
+        
+        CristianRR crr = new CristianRR();
+        lista.add(crr);
         // MOSTRAR EL CONTENIDO DE LA LISTA
         for (Corregible objeto : lista) {
             System.out.println(objeto.descripcion());
