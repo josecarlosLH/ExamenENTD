@@ -16,7 +16,8 @@ public class CorregirExamen {
         // ZONA PARA CREAR OBJETOS Y AÑADIRLOS A LA LISTA
         RaulVE r= new RaulVE();
         lista.add(r);
-        
+        BryanESL b = new BryanESL();
+        lista.add(b);
         
         
         // MOSTRAR EL CONTENIDO DE LA LISTA
