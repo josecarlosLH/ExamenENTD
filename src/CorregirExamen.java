@@ -22,7 +22,8 @@ public class CorregirExamen {
         lista.add(joseADP);
         RafaelEO reo = new RafaelEO();
         lista.add(reo);
-        
+        JuanCarlosML jcml = new JuanCarlosML();
+        lista.add(jcml);
         
         // MOSTRAR EL CONTENIDO DE LA LISTA
         for (Corregible objeto : lista) {
