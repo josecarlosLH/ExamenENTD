@@ -15,3 +15,4 @@ public class JoseCarlosLH implements Corregible {
     public String descripcion(){
         return "JoseCarlosLH";
     }   
+}
