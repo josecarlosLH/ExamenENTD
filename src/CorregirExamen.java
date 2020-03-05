@@ -45,6 +45,10 @@ public class CorregirExamen {
         IsabelCRA icra= new IsabelCRA();
         lista.add(icra);
         
+        JoseCarlosLH jclh = new JoseCarlosLH();
+        lista.add(jclh);
+
+        
         IreneJM ijm = new IreneJM();
         lista.add(ijm);
         // MOSTRAR EL CONTENIDO DE LA LISTA
