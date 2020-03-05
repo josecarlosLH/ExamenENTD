@@ -18,6 +18,8 @@ public class CorregirExamen {
         lista.add(r);
         BryanESL b = new BryanESL();
         lista.add(b);
+        JoseAntonioDP joseADP = new JoseAntonioDP();
+        lista.add(joseADP);
         
         
         // MOSTRAR EL CONTENIDO DE LA LISTA
