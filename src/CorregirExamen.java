@@ -22,6 +22,9 @@ public class CorregirExamen {
         lista.add(joseADP);
         RafaelEO reo = new RafaelEO();
         lista.add(reo);
+        JuanCarlosML jcml = new JuanCarlosML();
+        lista.add(jcml);
+        
         
         AlexAH a = new AlexAH();
         lista.add(a);
