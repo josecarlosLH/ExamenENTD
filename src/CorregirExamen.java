@@ -37,6 +37,9 @@ public class CorregirExamen {
         lista.add(crr);
         InakiAr iar=new InakiAr();
         lista.add(iar);
+        
+        IreneJM ijm = new IreneJM();
+        lista.add(ijm);
         // MOSTRAR EL CONTENIDO DE LA LISTA
         for (Corregible objeto : lista) {
             System.out.println(objeto.descripcion());
