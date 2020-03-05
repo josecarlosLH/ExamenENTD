@@ -9,7 +9,7 @@ package entornos.examen;
  *
  * @author inaki_57htt38
  */
-public class IñakiAr implements Corregible{
+public class InakiAr implements Corregible{
     @Override
     public String descripcion(){
         String mi_nombre="Iñaki AR";
