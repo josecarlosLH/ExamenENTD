@@ -40,6 +40,8 @@ public class CorregirExamen {
         
         MiguelAngelSC o = new MiguelAngelSC();
         lista.add(o);
+        IsabelCRA icra= new IsabelCRA();
+        lista.add(icra);
         
         // MOSTRAR EL CONTENIDO DE LA LISTA
         for (Corregible objeto : lista) {
