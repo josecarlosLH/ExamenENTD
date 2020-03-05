@@ -40,6 +40,11 @@ public class CorregirExamen {
         InakiAr iar=new InakiAr();
         lista.add(iar);
         
+        MiguelAngelSC o = new MiguelAngelSC();
+        lista.add(o);
+        IsabelCRA icra= new IsabelCRA();
+        lista.add(icra);
+        
         IreneJM ijm = new IreneJM();
         lista.add(ijm);
         // MOSTRAR EL CONTENIDO DE LA LISTA
