@@ -14,7 +14,9 @@ public class CorregirExamen {
         ArrayList<Corregible> lista = new ArrayList<Corregible>();
 
         // ZONA PARA CREAR OBJETOS Y AÑADIRLOS A LA LISTA
-
+        RaulVE r= new RaulVE();
+        lista.add(r);
+        
         
         
         // MOSTRAR EL CONTENIDO DE LA LISTA
