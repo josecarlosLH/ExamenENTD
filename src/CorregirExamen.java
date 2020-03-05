@@ -29,6 +29,8 @@ public class CorregirExamen {
         lista.add(jcml);
         JavierSV jsv = new JavierSV();
         lista.add(jsv);
+        IvanMG img = new IvanMG();
+        lista.add(img);
         
         AlejandroMB amb = new AlejandroMB();
         lista.add(amb);
