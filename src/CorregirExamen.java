@@ -20,6 +20,8 @@ public class CorregirExamen {
         lista.add(b);
         JoseAntonioDP joseADP = new JoseAntonioDP();
         lista.add(joseADP);
+        RafaelEO reo = new RafaelEO();
+        lista.add(reo);
         
         AlexAH a = new AlexAH();
         lista.add(a);
